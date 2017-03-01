@@ -3,13 +3,17 @@ body{
 }
 
 ·contenedor{
-    width: 400px;
     font-family: Arial;
     font-size: 30px;
 }
 .caja{
     display: block;
+    width: 150px;
     padding: 20px;
     margin: 10px;
     background-color: deepskyblue;
+}
+
+.colorCoral{
+    background-color: coral;
 }
